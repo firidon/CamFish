@@ -2,7 +2,7 @@
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 ![cheese](https://1.bp.blogspot.com/-YNCXam1vNOg/Xp7nZc1qkrI/AAAAAAAALGI/isv-n0Fc_JUyJ2h-J-sQg5ZapJo029hOQCLcBGAsYHQ/s1600/camfish.png)
 
-![cheese](https://1.bp.blogspot.com/-xixXtmgafRY/Xp8AcP1s2YI/AAAAAAAALGU/Cqd-Hht2ZTkqj7ITb_JaRatltnm_4UcpQCLcBGAsYHQ/s1600/fishingpage.png)
+![cheese](https://1.bp.blogspot.com/-mhOIazswzQE/Xp8B6vTOhkI/AAAAAAAALGk/GKhNKwOgXYwwOlTLMBi0NUwyg2q--yr7QCLcBGAsYHQ/s1600/webpage.png)
 
 # What is CamFish?
 <p>CamFish is techniques to take cam shots of target's phone fornt camera or PC webcam. CamFish Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
