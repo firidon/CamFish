@@ -28,15 +28,23 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 <p>This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal</p>
 
 ```
-apt-get -y install php openssh git
+apt-get -y install php openssh git wget
 ```
 
-## Installing (Kali Linux/Termux):
+## Installing (Kali Linux/Others Linux OS):
 
 ```
 git clone https://github.com/firidon/CamFish
 cd CamFish
 bash camfish.sh
+```
+
+## Installing (Termux):
+
+```
+git clone https://github.com/firidon/CamFish
+cd CamFish
+bash termuxcam.sh
 ```
 
 <p>CamFish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
