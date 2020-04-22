@@ -32,7 +32,7 @@ apt-get update
 apt-get -y install php openssh git wget
 ```
 
-## Installing (Kali Linux/Others Linux OS):
+## Installing (Kali Linux/Termux):
 
 ```
 git clone https://github.com/firidon/CamFish
@@ -40,13 +40,6 @@ cd CamFish
 bash camfish.sh
 ```
 
-## Installing (Termux):
-
-```
-git clone https://github.com/firidon/CamFish
-cd CamFish
-bash termuxcam.sh
-```
 
 <p>CamFish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamFish is inspired by https://github.com/thelinuxchoice/ and https://github.com/techchipnet Big thanks to @thelinuxchoice and @techchipnet</p>
