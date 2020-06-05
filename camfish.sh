@@ -15,7 +15,7 @@ clear
  printf "\e[1;92m  ██║     ██╔══██║██║╚██╔╝██║\e[0m\e[1;77m██╔══╝  ██║╚════██║██╔══██║\e[0m\n"
  printf "\e[1;92m  ╚██████╗██║  ██║██║ ╚═╝ ██║\e[0m\e[1;77m██║     ██║███████║██║  ██║\e[0m\n"
  printf "\e[1;92m   ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝\e[0m\e[1;77m╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝\e[0m\n"
- printf " \e[1;77m         www.firidon.ga | youtube.com/firidon \e[0m \n"
+ printf " \e[1;77m         https://firidon.me | youtube.com/firidon \e[0m \n"
 
 printf "\n"
 
